@@ -4,7 +4,7 @@
 * **Target IP:** `[IP]`
 * **OS:** `[Linux / Windows]`
 * **Difficulty:** `[Easy / Medium / Hard]`
-* **Vulnerability Synopsis:** [1-2 sentences explaining the core flaw. e.g., "Initial access gained via anonymous FTP login exposing private SSH keys. Privilege escalation achieved by exploiting a misconfigured SUID binary."]
+* **Vulnerability Synopsis:** [Sentences explaining the core flaw. e.g., "Initial access gained via anonymous FTP login exposing private SSH keys. Privilege escalation achieved by exploiting a misconfigured SUID binary."]
 
 ---
 
